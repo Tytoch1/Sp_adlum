@@ -68,16 +68,16 @@ header p {
   background-size: cover;
 }
 
-.img1  { background-image: url(img/photo1.jpg); }
+.img1  { background-image: url(img/IMG_3837.JPG); }
 .img2  { background-image: url(img/iso1.jpg); }
-.img3  { background-image: url(img/photo2.jpg); }
-.img4  { background-image: url(img/photo2.jpg); }
+.img3  { background-image: url(img/IMG_3837.JPG); }
+.img4  { background-image: url(img/IMG_3837.JPG); }
 .img5  { background-image: url(img/iso1.jpg); }
-.img6  { background-image: url(img/photo3.jpg); }
-.img7  { background-image: url(img/photo1.jpg); }
+.img6  { background-image: url(img/IMG_3837.JPG); }
+.img7  { background-image: url(img/IMG_3837.JPG); }
 .img8  { background-image: url(img/iso1.jpg); }
-.img9  { background-image: url(img/photo2.jpg); }
-.img10 { background-image: url(img/photo2.jpg); }
+.img9  { background-image: url(img/IMG_3843.JPG); }
+.img10 { background-image: url(img/iso1.jpg); }
 
 .page {
   display: none;
